@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my-todo" vcs="" />
+    <mapping directory="$PROJECT_DIR$/my-typescript/my-app" vcs="" />
+    <mapping directory="$PROJECT_DIR$/my-typescript/ts-react-first/my-first-app" vcs="" />
+    <mapping directory="$PROJECT_DIR$/my-typescript/ts-react-second/my-first-app" vcs="" />
+    <mapping directory="$PROJECT_DIR$/my-typescript/ts-react-second/my-first-sass-app" vcs="" />
+    <mapping directory="$PROJECT_DIR$/my-typescript/ts-react-tutorial" vcs="" />
+  </component>
+</project>
